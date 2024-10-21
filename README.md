@@ -1,8 +1,8 @@
 # JSP-Servlet-JDBC_UTS-RPLL
  Tugas UTS JSP Servlet RPL Lanjut Kelompok 8
- Wildan Abdel Fathir 	(11220910000078)
- Luthfi Ikmal Fatir	  (11220910000009)
- Sulaiman Fikri	     	(11220910000104)
+ - Wildan Abdel Fathir 	(11220910000078)
+ - Luthfi Ikmal Fatir	  (11220910000009)
+ - Sulaiman Fikri	     	(11220910000104)
 # Deskripsi Program
 Program ini adalah Program berbasis JSP Servlet yang berguna sebagai CRUD (CREATE - READ - UPDATE - DELETE) digunakan untuk mencatat data pengguna
 # Teknologi Yang Digunakan
